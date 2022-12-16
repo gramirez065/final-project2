@@ -7,6 +7,10 @@ nav {
     background-color: rgb(102, 104, 105);
 }
 
+.media-1{
+  background-color: dodgerblue;
+}
+
 /*.hero-image{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/car\ image\ 5.jpg);
     height: 500px;
@@ -17,9 +21,9 @@ nav {
 }*/
 
 
-ul{
+/*ul{
     list-style: none;
-}
+}*/
 .card1{
     background-image: url(../images/car\ engine.jpg);
     height: 250px;
@@ -170,6 +174,7 @@ ul{
 
       .button-1:hover {
         background-color: rgb(252, 251, 249);
+        
     }
 
     /*.home-1{
@@ -216,5 +221,5 @@ ul{
     }
 
     .social-media a :hover{
-      color: white;
+      color: rgb(10, 73, 245);
     }
